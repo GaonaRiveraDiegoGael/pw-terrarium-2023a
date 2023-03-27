@@ -1,0 +1,30 @@
+/* Estilos del terrario */
+h1 {
+    color:coral;
+    text-align:center;
+   }
+
+#left-container{
+    background-color:blanchedalmond;
+    width: 15%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 3px;
+    border-style: dashed;
+    border-color:black;
+    padding: 100%;
+}
+
+#right-container{
+    background-color:blanchedalmond;
+    width: 15%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position: absolute;
+    border: 3px;
+    border-style: dashed;
+    border-color: darkblue;
+}
