@@ -64,11 +64,28 @@ h1 {
 }
 
 .jar-bottom{
-    width: ;
+    width: 50%;
+    height: 2%;
+    background:d1e1ef;
+    position: absolute;
+    bottom: -1.55;
+    left: 25%;
+    opacity: 0.7%;
+    z-index: -3;
 }
 
 .dirt{
-    
+    position: absolute;
+    height: 7%;
+    width: 60%;
+    left: 20%;
+    bottom: 0.5%;
+    border: 3px;
+    background: #3a241d;
+    border-radius: 0rem 0rem 1rem 1rem;
+    opacity: 0.7;
+    z-index: -1;
+
 }
 
 .jar-glossy-long{
